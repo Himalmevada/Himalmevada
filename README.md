@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [link_of_artical_of_blogs](link_of_artical_of_blogs)
 
-- 💬 Ask me about **Python, Sql, Mongodb, PHP, Data Analysis, Data Visulization**
+- 💬 Ask me about **Python, Sql, Mongodb, PHP, Data Analysis, Data Visualization**
 
 - 📫 How to reach me **mevadahimal2002@gmail.com**
 
