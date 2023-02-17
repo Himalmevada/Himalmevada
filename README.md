@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [resume_link](resume_link)
 
-- ⚡ Fun fact **I used to play littel bit politics**
+- ⚡ Fun fact **I used to watch cartoons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
