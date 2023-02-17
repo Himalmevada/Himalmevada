@@ -7,17 +7,11 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, Statistics, Data Analysis, Data Visulization**
 
-- 🤝 I’m looking for help with **Machine Learning Library**
-
-- 👨‍💻 All of my projects are available at [link_of_project](link_of_project)
-
-- 📝 I regularly write articles on [link_of_artical_of_blogs](link_of_artical_of_blogs)
+- 🤝 I’m looking for help with **Machine Learning**
 
 - 💬 Ask me about **Python, Sql, Mongodb, PHP, Data Analysis, Data Visualization**
 
 - 📫 How to reach me **mevadahimal2002@gmail.com**
-
-- 📄 Know about my experiences [resume_link](resume_link)
 
 - ⚡ Fun fact **I used to watch cartoons**
 
