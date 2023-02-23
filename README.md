@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himalmevada" alt="himalmevada" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, Statistics, Data Analysis, Data Visulization**
+<marquee>- 🌱 I’m currently learning **Python, Statistics, Data Visulization, Data Analysis, Machine Learning, Deep Learning**</marquee>
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 💬 Ask me about **Python, Sql, Mongodb, PHP, Data Analysis, Data Visualization**
+- 💬 Ask me about **Python, SQL, MongoDB, PHP, Data Analysis, Data Visualization**
 
 - 📫 How to reach me **mevadahimal2002@gmail.com**
 
