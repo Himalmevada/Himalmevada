@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himalmevada" alt="himalmevada" /></a> </p>
 
-<marquee>- 🌱 I’m currently learning **Python, Statistics, Data Visulization, Data Analysis, Machine Learning, Deep Learning**</marquee>
+- 🌱 I’m currently learning **Python, Statistics, Data Visulization, Data Analysis, Machine Learning, Deep Learning**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
